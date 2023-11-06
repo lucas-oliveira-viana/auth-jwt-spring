@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Aplicação feita com o framework Spring Boot para cadastro, login e criação de sessão para o usuário com JWT.
+Serviço criado utilizando o framework Spring Boot para cadastro, login e criação de sessão para o usuário com JWT.
 
 ## Tecnologias
 
